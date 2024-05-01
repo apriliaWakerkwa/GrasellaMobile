@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120346450574",
+    "project_id": "grasellamc-9571b",
+    "storage_bucket": "grasellamc-9571b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120346450574:android:58c6f487347d407997c7df",
+        "android_client_info": {
+          "package_name": "com.example.grasella"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFbSQKErejvOMWJn5QLZbfsG3DEllxH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
